@@ -26,6 +26,6 @@ Python
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * I would build out the code so the user can add reps and amount of weight
 * I would make the client side interface (something polished that looks nice)
